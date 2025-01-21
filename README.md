@@ -3,7 +3,7 @@
  
 # Tourist - Travel Agency React Website
 
-[![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+
 
 ###
 
@@ -31,7 +31,7 @@
 
 MIT License
 
-Copyright (c) 2024 Paras Nitin Salunke
+Copyright (c) 2025 @Satyam suman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
