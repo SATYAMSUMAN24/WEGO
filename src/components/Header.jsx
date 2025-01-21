@@ -29,11 +29,11 @@ function Header() {
           >
             <small className="me-3 text-light">
               <i className="fa fa-map-marker-alt me-2" />
-              123 Street, Kalutara South, SriLanka
+              123 Street, Delhi, INDIA
             </small>
             <small className="me-3 text-light">
               <i className="fa fa-phone-alt me-2" />
-              +94 71 534 5060
+              +91 123456789
             </small>
             <small className="text-light">
               <i className="fa fa-envelope-open me-2" />
