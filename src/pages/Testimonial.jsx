@@ -43,11 +43,11 @@ function Testimonial() {
               src="assets/img/testimonial-1.jpg"
               style={{ width: 80, height: 80 }}
             />
-            <h5 className="mb-0">John Doe</h5>
-            <p>New York, USA</p>
+            <h5 className="mb-0">Aman Singh</h5>
+            <p>Delhi, India</p>
             <p className="mb-0">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-              amet diam et eos. Clita erat ipsum et lorem et sit.
+            "Excellent service! The tour was well-organized, and the staff was very professional. 
+            Highly recommend for a hassle-free travel experience."
             </p>
           </div>
           <div className="testimonial-item bg-white text-center border p-4">
@@ -59,8 +59,8 @@ function Testimonial() {
             <h5 className="mb-0">John Doe</h5>
             <p>New York, USA</p>
             <p className="mt-2 mb-0">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-              amet diam et eos. Clita erat ipsum et lorem et sit.
+              "Everything was planned perfectly, from transport to accommodations. 
+              The itinerary was great, and we truly enjoyed every moment!"
             </p>
           </div>
           <div className="testimonial-item bg-white text-center border p-4">
@@ -72,8 +72,9 @@ function Testimonial() {
             <h5 className="mb-0">John Doe</h5>
             <p>New York, USA</p>
             <p className="mt-2 mb-0">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-              amet diam et eos. Clita erat ipsum et lorem et sit.
+              "Great customer service! 
+              They ensured all our needs were met and made our trip smooth and enjoyable. 
+              Will book again!"
             </p>
           </div>
           <div className="testimonial-item bg-white text-center border p-4">
@@ -85,8 +86,8 @@ function Testimonial() {
             <h5 className="mb-0">John Doe</h5>
             <p>New York, USA</p>
             <p className="mt-2 mb-0">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-              amet diam et eos. Clita erat ipsum et lorem et sit.
+              "Fantastic team! They paid attention to every detail, and the guides were knowledgeable.
+              A wonderful travel company!"
             </p>
           </div>
         </div>
