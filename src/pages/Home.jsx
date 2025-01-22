@@ -55,10 +55,11 @@ export default function Home() {
               Welcome to <span className="text-primary">WeGo Travels</span>
             </h1>
             <p className="mb-4">
-            “Wego” based in Kalutara, Sri Lanka, brings 15 years of travel expertise to life with a young and creative team. Specializing in unforgettable trips across Sri Lanka, India, and Thailand, Wego offers a wide range of travel experiences, from exotic getaways to thrilling adventures.
+            “Wego” based in Tour & Travelling, India, brings 15 years of travel expertise to life with a young and creative team. Specializing in unforgettable trips across Sri Lanka, India, and Thailand, Wego offers a wide range of travel experiences, from exotic getaways to thrilling adventures.
+
             </p>
             <p className="mb-4">
-            Discover your next adventure with us! Wego, a renowned travel agency based in Kalutara, Sri Lanka, combines 15 years of industry expertise with the fresh energy of a young, innovative team to create exceptional travel experiences.
+            Embark on your next adventure with Wego! Based in India, we bring 15 years of travel industry expertise combined with the creativity and passion of a vibrant young team. Specializing in unforgettable experiences across India, Sri Lanka, and Thailand, we offer everything from serene escapes to thrilling adventures. Let us make your travel dreams come true!
             </p>
             <div className="row gy-2 gx-4 mb-4">
               <div className="col-sm-6">
@@ -490,13 +491,14 @@ export default function Home() {
               <h6 className="text-white text-uppercase">Booking</h6>
               <h1 className="text-white mb-4">Online Booking</h1>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
+                "Book your appointment now! Secure your spot with our easy online booking system. 
+                Choose your date and time, and instantly confirm your reservation. Access 24/7 from any device."
               </p>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                sed stet lorem sit clita duo justo magna dolore erat amet
+                Clear call to action: "Book now" or "Reserve your spot"
+                Highlight convenience: "24/7 access", "any device"
+                Benefits of online booking: "Instant confirmation", "easy to use"
+                Consider adding a special offer or limited availability to encourage immediate booking
               </p>
               <a className="btn btn-outline-light py-3 px-5 mt-2" href="">
                 Read More
@@ -611,8 +613,9 @@ export default function Home() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+                "Choose your next adventure! 
+                Explore vibrant cities, serene beaches, or rugged mountains - where will your wanderlust take you? 
+                Consider your interests, budget, and travel style to find the perfect destination for an unforgettable trip."
               </p>
             </div>
           </div>
@@ -631,8 +634,12 @@ export default function Home() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Enjoy the convenience of secure and hassle-free online payments. With just a few clicks, you can complete your transaction safely from the comfort of your home. Choose from multiple payment options, including:
+              Credit/Debit Cards
+              Net Banking
+              UPI
+              Mobile Wallets
+             Your payment details are encrypted and processed through trusted gateways to ensure maximum security. Experience seamless and stress-free payments today!
               </p>
             </div>
           </div>
@@ -651,8 +658,9 @@ export default function Home() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+                There’s nothing quite like the freedom of hopping on a plane and landing in a completely new part of the world. 
+                Airplanes represent excitement, passion, and adventure —and if you’re going somewhere today,
+                there’s no question that you can pick up plenty of Insta-worthy pictures along the way!
               </p>
             </div>
           </div>
