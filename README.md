@@ -1,11 +1,14 @@
                            
-![Awesome ReadME](https://raw.githubusercontent.com/ParasSalunke/Tourist-Travel-Agency-Website/main/travel-agency-react-template.jpg)
+![Awesome ReadME]
  
 # Tourist - Travel Agency React Website
 
+#Deployment on vercel
 
+Url:- https://wego-rgvr.vercel.app/
 
-###
+###![Screenshot (60)](https://github.com/user-attachments/assets/9a902a70-8de5-4b13-8452-00d328b27c97)
+
 
 # Languages-Frameworks-Tools Used
 
