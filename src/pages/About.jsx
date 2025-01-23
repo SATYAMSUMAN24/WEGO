@@ -57,13 +57,15 @@ function About() {
               Welcome to <span className="text-primary">WeGo Travels</span>
             </h1>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit.
+              Wego” based in Tour & Travelling, India, brings 15 years of travel expertise to life with a young and creative team. 
+              Specializing in unforgettable trips across Sri Lanka, India, and Thailand, 
+              Wego offers a wide range of travel experiences, from exotic getaways to thrilling adventures.
             </p>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+              Embark on your next adventure with Wego! 
+              Based in India, we bring 15 years of travel industry expertise combined with the creativity and passion of a vibrant young team. 
+              Specializing in unforgettable experiences across India, Sri Lanka, and Thailand, we offer everything from serene escapes to thrilling adventures. 
+              Let us make your travel dreams come true!
             </p>
             <div className="row gy-2 gx-4 mb-4">
               <div className="col-sm-6">
