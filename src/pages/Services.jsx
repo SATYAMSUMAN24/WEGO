@@ -68,8 +68,10 @@ function Services() {
                 <i className="fa fa-3x fa-user text-primary mb-4" />
                 <h5>Travel Guides</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Your Trusted Travel Guides
+                  Explore like a pro with our expert travel guides. Get insider tips, local recommendations,
+                  and detailed itineraries to make every trip unforgettable. 
+                  Adventure starts here!
                 </p>
               </div>
             </div>
