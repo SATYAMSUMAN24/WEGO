@@ -5,7 +5,7 @@
 
 #Deployment on vercel
 
-Url:- https://wego-rgvr.vercel.app/
+Url:- https://wego-six.vercel.app/
 
 ###![Screenshot (60)](https://github.com/user-attachments/assets/9a902a70-8de5-4b13-8452-00d328b27c97)
 
