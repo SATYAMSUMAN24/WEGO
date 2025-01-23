@@ -50,8 +50,8 @@ function Booking() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+                Looking for the perfect getaway? Discover breathtaking destinations, hidden gems, and unforgettable experiences with us. 
+                Whether it’s a serene beach, majestic mountains, or vibrant cities, your dream journey starts here!
               </p>
             </div>
           </div>
@@ -70,8 +70,11 @@ function Booking() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+                Secure & Convenient Online Payments for Your Travel Plans
+                Book your dream getaway effortlessly with our secure online payment system. 
+                Enjoy a seamless experience, whether you're planning a quick weekend trip or a long vacation. 
+                Travel smarter, faster, and safer with just a few clicks!
+                netbanking, card, upi available.
               </p>
             </div>
           </div>
@@ -90,8 +93,9 @@ function Booking() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+                Fly Today, Explore Tomorrow!
+                Ready for a spontaneous adventure? Book your flight today and start your journey to unforgettable destinations. 
+                Quick, easy, and hassle-free travel at your fingertips!
               </p>
             </div>
           </div>
@@ -108,13 +112,16 @@ function Booking() {
               <h6 className="text-white text-uppercase">Booking</h6>
               <h1 className="text-white mb-4">Online Booking</h1>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
+                Seamless Online Booking for Your Next Adventure
+
+Planning your next trip has never been easier! 
+                With our user-friendly online booking platform, you can browse, select, and reserve your perfect getaway in just a few simple steps.
+                Whether you're looking for a relaxing beach holiday, an exciting city escape, or a peaceful mountain retreat, 
+                our system is designed to make your travel planning quick and hassle-free.
               </p>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                sed stet lorem sit clita duo justo magna dolore erat amet
+                Enjoy real-time availability, secure payment options, and instant confirmations, all from the comfort of your home. 
+                Start your journey with confidence and convenience—book your dream trip online today!
               </p>
               <a className="btn btn-outline-light py-3 px-5 mt-2" href="">
                 Read More
