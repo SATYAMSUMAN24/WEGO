@@ -123,8 +123,9 @@ export default function Home() {
                 <i className="fa fa-3x fa-globe text-primary mb-4" />
                 <h5>WorldWide Tours</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Discover breathtaking destinations across the globe with our worldwide tour packages. 
+                  From iconic landmarks to hidden gems, your adventure awaits! 
+                  Let’s make your travel dreams come true.
                 </p>
               </div>
             </div>
@@ -135,8 +136,9 @@ export default function Home() {
                 <i className="fa fa-3x fa-hotel text-primary mb-4" />
                 <h5>Hotel Reservation</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Hassle-Free Hotel Reservations
+                  Find and book the perfect stay for your trip with ease. 
+                  From cozy inns to luxury hotels, our seamless reservation process ensures comfort and convenience wherever you go.
                 </p>
               </div>
             </div>
@@ -147,8 +149,10 @@ export default function Home() {
                 <i className="fa fa-3x fa-user text-primary mb-4" />
                 <h5>Travel Guides</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Your Trusted Travel Guides
+                  Explore like a pro with our expert travel guides. Get insider tips, local recommendations, 
+                  and detailed itineraries to make every trip unforgettable. 
+                  Adventure starts here!
                 </p>
               </div>
             </div>
@@ -159,8 +163,10 @@ export default function Home() {
                 <i className="fa fa-3x fa-cog text-primary mb-4" />
                 <h5>Event Management</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                 Effortless Event Management
+                  From planning to execution, we handle every detail to make your event unforgettable. 
+                  Whether it’s a corporate gathering, wedding, or celebration, we ensure a seamless and stress-free experience.
+                  Let’s make your event extraordinary!
                 </p>
               </div>
             </div>
@@ -171,8 +177,9 @@ export default function Home() {
                 <i className="fa fa-3x fa-globe text-primary mb-4" />
                 <h5>WorldWide Tours</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                 Discover breathtaking destinations across the globe with our worldwide tour packages. 
+                  From iconic landmarks to hidden gems, your adventure awaits!
+                  Let’s make your travel dreams come
                 </p>
               </div>
             </div>
@@ -183,8 +190,9 @@ export default function Home() {
                 <i className="fa fa-3x fa-hotel text-primary mb-4" />
                 <h5>Hotel Reservation</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Hassle-Free Hotel Reservations
+                  Find and book the perfect stay for your trip with ease. From cozy inns to luxury hotels, 
+                  our seamless reservation process ensures comfort and convenience wherever you go.
                 </p>
               </div>
             </div>
@@ -195,8 +203,10 @@ export default function Home() {
                 <i className="fa fa-3x fa-user text-primary mb-4" />
                 <h5>Travel Guides</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Your Trusted Travel Guides
+                  Explore like a pro with our expert travel guides. 
+                  Get insider tips, local recommendations, and detailed itineraries to make every trip unforgettable. 
+                  Adventure starts here!
                 </p>
               </div>
             </div>
@@ -207,8 +217,10 @@ export default function Home() {
                 <i className="fa fa-3x fa-cog text-primary mb-4" />
                 <h5>Event Management</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Effortless Event Management
+                  From planning to execution, we handle every detail to make your event unforgettable. 
+                  Whether it’s a corporate gathering, wedding, or celebration, we ensure a seamless and stress-free experience. 
+                  Let’s make your event extraordinary!
                 </p>
               </div>
             </div>
@@ -358,8 +370,14 @@ export default function Home() {
                   <small className="fa fa-star text-primary" />
                 </div>
                 <p>
-                  Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit
-                  diam amet diam eos
+                  Awesome Packages for Thailand
+                  Embark on an unforgettable journey to the Land of Smiles with our exclusive Thailand tour packages! 
+                  From the vibrant streets of Bangkok to the serene beaches of Phuket and the lush jungles of Chiang Mai, we’ve crafted the perfect itineraries for every traveler.
+                  ✅ Luxurious accommodations
+                  ✅ Guided tours to iconic landmarks
+                  ✅ Exciting adventure activities
+                  ✅ Authentic Thai cuisine experiences
+                  Book your Thailand getaway today and create memories that last a lifetime!
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
@@ -407,8 +425,14 @@ export default function Home() {
                   <small className="fa fa-star text-primary" />
                 </div>
                 <p>
-                  Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit
-                  diam amet diam eos
+                  Awesome Packages for Indonesia
+                 Discover the rich culture, stunning landscapes, and tropical beauty of Indonesia with our specially crafted tour packages! 
+                  From the vibrant streets of Bali to the ancient temples of Yogyakarta and the lush jungles of Sumatra, we’ve curated unforgettable experiences for every type of traveler.
+                  ✅ Stunning beach resorts in Bali
+                  ✅ Cultural tours to Ubud and Borobudur
+                  ✅ Adventurous hikes to active volcanoes
+                  ✅ Traditional Indonesian cuisine & local experiences
+                   Book your dream Indonesian adventure today and explore paradise like never before!
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
@@ -456,8 +480,14 @@ export default function Home() {
                   <small className="fa fa-star text-primary" />
                 </div>
                 <p>
-                  Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit
-                  diam amet diam eos
+                  Awesome Packages for Malaysia
+                  Experience the perfect blend of modernity and tradition with our exclusive Malaysia tour packages! Whether you're wandering through Kuala Lumpur's iconic skyline, relaxing on Langkawi’s pristine beaches, or exploring the rich cultural heritage of Penang, 
+                  Malaysia offers something for everyone.
+                  ✅ Stay in luxury hotels and resorts
+                  ✅ Visit top attractions like Petronas Towers, Batu Caves, and George Town
+                  ✅ Thrilling jungle safaris and wildlife encounters
+                  ✅ Delicious Malaysian cuisine and local experiences
+                  Book your Malaysia adventure now and immerse yourself in the beauty of this vibrant destination!
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
