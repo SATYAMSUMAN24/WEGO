@@ -8,10 +8,13 @@ export default function Home() {
         <div className="search-bar">
           <select className="dropdown">
             <option>Tour Country</option>
+            <option>India</option>
             <option>Sri Lanka</option>
             <option>Maldives</option>
             <option>Singapore</option>
             <option>Thailand</option>
+            <option>Russia</option>
+            <option>England</option>
           </select>
           <select className="dropdown">
             <option>Tour duration</option>
