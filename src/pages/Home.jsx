@@ -9,12 +9,15 @@ export default function Home() {
           <select className="dropdown">
             <option>Tour Country</option>
             <option>India</option>
+            <option>Nepal</option>
+            <option>Chain</option>
             <option>Sri Lanka</option>
             <option>Maldives</option>
             <option>Singapore</option>
             <option>Thailand</option>
             <option>Russia</option>
             <option>England</option>
+            <option>Bhutan</option>
           </select>
           <select className="dropdown">
             <option>Tour duration</option>
